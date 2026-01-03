@@ -160,8 +160,8 @@ MIT License - feel free to use for personal or commercial projects
 ## 👤 Author
 
 **Your Name**
-- GitHub: [@trekzest](https://github.com/trekzest)
-- LinkedIn: [trekzest](https://linkedin.com/in/trekzest)
+- GitHub: [@trekzest](https://github.com/sawrrabh)
+- LinkedIn: [trekzest](https://linkedin.com/in/sawrrabh)
 
 ## 🙏 Acknowledgments
 
