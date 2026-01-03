@@ -28,7 +28,7 @@
 
 ## 🚀 Live Demo
 
-[View Live Demo](https://trekzest.github.io/meditrack)
+[View Live Demo](https://sawrrabh.github.io/meditrack)
 
 ## 📸 Screenshots
 
